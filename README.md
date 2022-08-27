@@ -4,6 +4,5 @@ TensorFlow Hub is an online repository of already trained TensorFlow models that
 
 Transfer learning is a process where you take an existing trained model, and extend it to do additional work. This involves leaving the bulk of the model unchanged, while adding and retraining the final layers, in order to get a different set of possible outputs.
 
-Here, you can see all the models available in TensorFlow Module Hub.
+Here, you can see all the models available in [TensorFlow Module Hub](https://tfhub.dev/).
 
-Before starting this Colab, you should reset the Colab environment by selecting Runtime -> Reset all runtimes... from menu above.
